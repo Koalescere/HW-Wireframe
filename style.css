@@ -20,7 +20,7 @@
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 20px;
-    color: #333;
+
   }
 
   section {
@@ -31,15 +31,14 @@
     background: #ebebeb;
     padding:  20px;
     margin-bottom: 20px;
-    color:  white;
+    color:  #777;
     width:  100%
     
   }
   
   #T3A { 
     background: #ebebeb;
-    color: white;
-    height: 200px;
+    height: 300px;
     border: 1px solid #eee;
     padding: 20px;
     width:  495px;
@@ -50,29 +49,42 @@
   #T3A_1 { 
     background: #777;
     color: #ebebeb;
-    width: 495px;
-    margin-right:  10px;
-    margin-left:  10px;
-    padding: 10px;
-    border: 1px solid #eee;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 450px;
+    height: 220px;
+    border: 1px solid #6ea3da;
+    padding: 20px;
+
   }
   
   #T3A_2 { 
     background: #ebebeb;
     color: #777;
-    width:  495px;
-    margin-right:  10px;
-    margin-left:  10px;
+    position:  relative;
+    top: -165px;
+    width:  400px;
+    height: 50px;
+    padding: 10px;
+    right:  -25px;
   }
-  
+
+  #T3A_3 { 
+    background: #ebebeb;
+    color: #777;
+    position:  relative;
+    width:  400px;
+    height:  50px;
+    top:  -205px;
+    padding:  10px;
+    right:  -25px;
+  }
   #T3B {
     background: #ebebeb;
-    color:  #333;
-    height:  200px;
+    color:  #777;
+    height:  300px;
     border: 1px solid #eee;
     padding: 20px;
-    width: 450px;
+    width: 440px;
     float: right;
   
   }
@@ -81,6 +93,7 @@
     clear:  both;
     overflow: auto;
     background: #ebebeb;
+    color:  #777;
     padding:  20px;
   }
   
